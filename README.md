@@ -1,9 +1,8 @@
-### Hi there 👋
 
 <!--
 **jonghoon7431/jonghoon7431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<br><br>
+<br>
 
 <div><h1>📚 STACKS</h1></div>
 <div>
